@@ -1,0 +1,3 @@
+[submodule "lib/statuslib"]
+	path = lib/statuslib
+	url = https://github.com/DimiDimit/statuslib
