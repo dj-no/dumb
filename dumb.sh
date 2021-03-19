@@ -14,7 +14,7 @@ rm random.txt
 step "Wasting more of your time..."
 sleep 3
 step "Downloading Free Sex 2022 Safe Punjabi No Virus..."
-wget https://cdn.discordapp.com/attachments/821062463810175046/822225576084373554/free_sex.mp3
+wget https://cdn.discordapp.com/attachments/821062463810175046/822351991539367956/free_sex.wav
 substep "Trolling you..."
 ! aplay free_sex.mp3
 subinfo "You have just been trolled"
