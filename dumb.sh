@@ -16,7 +16,7 @@ sleep 3
 step "Downloading Free Sex 2022 Safe Punjabi No Virus..."
 wget https://cdn.discordapp.com/attachments/821062463810175046/822351991539367956/free_sex.wav
 substep "Trolling you..."
-! aplay free_sex.mp3
+! aplay free_sex.wav
 subinfo "You have just been trolled"
 sleep 0.5
 step "Downloading child porn..."
@@ -27,4 +27,4 @@ step "Have fun with the swat team incoming!"
 echo
 info "Credit to DimiDimit for creating statuslib, you shouldn't have sent this to me on Discord..."
 rm suicidenote.txt
-rm free_sex.mp3
+rm free_sex.wav
